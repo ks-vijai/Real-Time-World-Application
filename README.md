@@ -6,9 +6,14 @@ i)Home Page
 ii)Loading Page
 iii)Choose location Page
 
-i)Home Page
+i)Home Page - Night Mode
 
 ![Screenshot (47)](https://user-images.githubusercontent.com/78490928/188959855-f255e3e4-46c5-44ca-b0c6-7e36118dd17c.png)
+ 
+  Home Page - Day Mode
+  
+  ![Screenshot (52)](https://user-images.githubusercontent.com/78490928/189044173-3ce1801d-907c-4dda-a100-d57334394fa3.png)
+
 
 ii) Loading Page
 
